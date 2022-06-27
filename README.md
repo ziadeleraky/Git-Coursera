@@ -1,2 +1,2 @@
 # Git-Coursera
-Git Course by Google
+Git Course by Google.
